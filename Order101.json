@@ -1,0 +1,13 @@
+{
+  "order_id": "101",
+  "status": "Shipped",
+  "tracking_number": "1Z12345E0205271688",
+  "delivery_estimate": "2025-07-12",
+  "items": [
+    {
+      "item_id": "ITM-0001",
+      "name": "Wireless Headphones",
+      "qty": 1
+    }
+  ]
+}
